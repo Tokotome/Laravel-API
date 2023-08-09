@@ -4,6 +4,8 @@ namespace App\Http\Resources\v1;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
+use App\Http\Controllers\Controller;
+
 
 class InvoiceResource extends JsonResource
 {
